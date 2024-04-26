@@ -3,6 +3,6 @@
 	"displayName": "Path Creator", 
 	"name": "com.seb-lague.path-creator", 
 	"unity": "2019.3", 
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"dependencies": {}
 }

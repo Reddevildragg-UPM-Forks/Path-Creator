@@ -1,0 +1,20 @@
+{
+    "name": "PathCreator.examples.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92ee438f32d811247a22ca14bf2a3fe0",
+        "GUID:626070ea3273cb844a310aa4f53b31fa",
+        "GUID:7890ed8c75ee80047a9b3259d0be556a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
